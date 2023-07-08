@@ -18,3 +18,7 @@ Portfolio templates:
 - https://www.creative-tim.com/
 
 [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+[List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+
+[Computer Memory](https://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)
+[Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
