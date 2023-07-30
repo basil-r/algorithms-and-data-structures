@@ -17,12 +17,13 @@ Portfolio templates:
 - https://mdbootstrap.com/freebies/
 - https://www.creative-tim.com/
 
-[Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+[Big O Cheat Sheet](https://www.bigocheatsheet.com/)  
 [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
-[Computer Memory](https://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)
-[Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)
-[md5 Hash Generator](https://www.miraclesalad.com/webtools/md5.php)
-[Hash table](https://en.wikipedia.org/wiki/Hash_table)
-[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
-[Comparison of programming languages (associative array)](<https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(associative_array)>)
+[Computer Memory](https://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)  
+[Registers and RAM](https://www.youtube.com/watch?v=fpnE6UAfbtU)  
+[md5 Hash Generator](https://www.miraclesalad.com/webtools/md5.php)  
+[Hash table](https://en.wikipedia.org/wiki/Hash_table)  
+[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)  
+[Comparison of programming languages (associative array)](<https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(associative_array)>)  
+[Linked List Visualization](https://visualgo.net/en/list?slide=1)
